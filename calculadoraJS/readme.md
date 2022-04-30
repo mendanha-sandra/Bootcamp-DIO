@@ -1,0 +1,1 @@
+Proposta de código para atividade proposta no curso "Sintaxe básica em JavaScript", ministrada por Diana Martine, DIO.
